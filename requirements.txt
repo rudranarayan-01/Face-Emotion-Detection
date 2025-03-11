@@ -1,0 +1,7 @@
+tensorflow
+keras
+# notebook
+tqdm
+pandas
+numpy
+# opencv-controlib-python
