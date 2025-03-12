@@ -4,4 +4,4 @@ keras
 tqdm
 pandas
 numpy
-# opencv-controlib-python
+opencv-controlib-python
