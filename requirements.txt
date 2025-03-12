@@ -1,6 +1,6 @@
 tensorflow
 keras
-# notebook
+notebook
 tqdm
 pandas
 numpy
